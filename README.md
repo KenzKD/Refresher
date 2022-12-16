@@ -2,7 +2,14 @@
 I made this 2D Platformer to refresh my Unity skills as well as learning some new ones as well.
 
 Download the Game Here : https://github.com/KenzKD/Refresher/releases/tag/Main 
- 
+
+# Game Controls
+A ->Left
+
+D ->Right
+
+Space -> Jump
+
 ## Level 1
 ![image](https://user-images.githubusercontent.com/65004578/207608289-7435cd8b-0a3b-47b0-be2f-fe23763a30c0.png)
 
